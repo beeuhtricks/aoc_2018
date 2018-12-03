@@ -1,0 +1,9 @@
+[package]
+name = "aoc_2018_rust"
+version = "0.1.0"
+authors = ["Beatrix Klebe <bea@klebe.blog>"]
+
+[dependencies]
+aoc-runner = "0.1"
+aoc-runner-derive = "0.1"
+itertools = "0.7"
